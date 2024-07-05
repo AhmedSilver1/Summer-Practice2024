@@ -26,3 +26,16 @@ Calcualte how many hours avaliable to study per day and week using simple variab
 
 #### Report(algorthim and output secreenshot): 
 • [click here to view the document ](https://docs.google.com/document/d/1QHVU62Wa1INjq81G8eG2lIyyGHBoT-WIMasmFIdQs-o/edit?usp=sharing)
+
+
+ ### Project 3 Avliable Driving age
+--------
+#### Objective:
+The objective of the program is to check if the user is able to drive or not.
+#### Source code: 
+ • [The file in python ](src/DrivingAge.py)
+
+• [Scratch ](https://scratch.mit.edu/projects/1044824031/)
+
+#### Report(algorthim and output secreenshot): 
+• [click here to view the document ](https://docs.google.com/document/d/1oGObeiCp-cqIjk79N41zCD7tfsdL7YEpHYF-pnszhTw/edit?usp=sharing)
