@@ -38,4 +38,39 @@ The objective of the program is to check if the user is able to drive or not.
 • [Scratch ](https://scratch.mit.edu/projects/1044824031/)
 
 #### Report(algorthim and output secreenshot): 
+• [click here to view the document ](https://docs.google.com/document/d/16KGgX2NrtGGHQHC36cuiow9W3c5oTFU4RRcuKqhgbzo/edit?usp=sharing)
+
+ ### Project 4 Gussing game
+--------
+#### Objective:
+Ask the user to guess three ingredients from a list.
+#### Source code: 
+ • [The file in python ](src/Project4/Project4.py)
+
+
+#### Report: 
 • [click here to view the document ](https://docs.google.com/document/d/1oGObeiCp-cqIjk79N41zCD7tfsdL7YEpHYF-pnszhTw/edit?usp=sharing)
+
+ ### Project 5 Computing Grades
+--------
+#### Objective:
+Computing the average, maximum, and minimum grades supplied by the user.
+#### Source code: 
+ • [The file in python ](src/Project5/Project5.py)
+
+
+#### Report: 
+• [click here to view the document ](https://docs.google.com/document/d/13pW9f0Bby-9gz4Ncj75z1sADnruM2pwHsB9qsj1LtNI/edit?usp=sharing)
+
+### Project 6 Ordering from a menu
+--------
+#### Objective:
+Ask the user to order from a menu of 6 objects and compute the total
+#### Source code: 
+ • [The file in python ](src/Project6/Project6.py)
+
+
+#### Report(): 
+• [click here to view the document ](https://docs.google.com/document/d/1Ooxz6zj7qc7Kthy-dq2ZjsfoCtFM620lLS5Nlcu07Mk/edit?usp=sharing)
+
+
