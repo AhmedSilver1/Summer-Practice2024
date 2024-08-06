@@ -73,4 +73,15 @@ Ask the user to order from a menu of 6 objects and compute the total
 #### Report(): 
 • [click here to view the document ](https://docs.google.com/document/d/1Ooxz6zj7qc7Kthy-dq2ZjsfoCtFM620lLS5Nlcu07Mk/edit?usp=sharing)
 
+### Project 7 Spanish Language Learning App
+--------
+#### Objective:
+A language learning app helps the user to memorize a set of vocabulary in spaish by translating words from English to Spanish. Then, test the user in a guessing game.
+#### Source code: 
+ • [The file in python ](src/Project7)
+
+
+#### Report(): 
+• [click here to view the document ](https://docs.google.com/document/d/1kOTMcfvMgrCHHROdvXfdjfOctBR0WFl282MxmR4eVp4/edit?usp=sharing)
+
 
